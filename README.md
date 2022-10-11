@@ -1,6 +1,6 @@
 
 <h1> Hello, Zidan here 👋 </h1>
-<h4> Welcomme to my github profile </h4> 
+<h4> Welcome to my github profile</h4> 
 <img width="100%" src="https://github.com/zidan-p/zidan-p/blob/main/asset/future.gif" />
 
 

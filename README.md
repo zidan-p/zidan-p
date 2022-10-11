@@ -32,7 +32,7 @@ This is where I store various kinds of projects, whether it's from school, my in
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 
 
-## Social 
+## 🖼️ Social 
 <a href="https://www.instagram.com/zidan_rahman8/">
     <img
       src="https://img.shields.io/badge/zidan_rahman8-ff1a75?label=&logo=instagram&style=flat&logoColor=fff"

@@ -39,7 +39,7 @@ This is where I store various kinds of projects, whether it's from school, my in
       alt="Instagram"
     />
 </a>
-<a href="https://www.facebook.com/ridwan.ayub.1426/">
+<a href="https://www.facebook.com/zidan.rahman.3914/">
     <img
       src="https://img.shields.io/badge/zidanputra-0000ff?label=&logo=facebook&style=flat&logoColor=fff"
       alt="facebook"

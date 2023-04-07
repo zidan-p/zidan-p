@@ -19,6 +19,7 @@ This is where I store various kinds of projects, whether it's from school, my in
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Laravel](https://img.shields.io/badge/-laravel-red?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/-php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node-339933?style=flat&logo=Node.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff)

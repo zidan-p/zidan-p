@@ -9,7 +9,7 @@
 This is where I store various kinds of projects, whether it's from school, my internship or my free time projects.
 - 👋 Hi, I’m @zidan-p (zidan putra rahman)
 - 👀 I’m interested in web development and game development
-- 🌱 I’m currently learning javaScript and c++
+- 🌱 I’m currently learning javaScript and java
 - 💞️ I’m looking to collaborate on React 
 - 📫 How to reach me `zidanputrarahman153@gmail.com`
 - 🍄fun fact __I want to learn more about digital technology that continues to develop into the future__

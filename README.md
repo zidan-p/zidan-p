@@ -6,6 +6,8 @@
 
 ![test](https://komarev.com/ghpvc/?username=zidan-p&color=yellowgreen)
 
+`oh my warriors whither would you flee? behind you is the sea, before you is the enemy`
+
 This is where I store various kinds of projects, whether it's from school, my internship or my free time projects.
 - 👋 Hi, I’m @zidan-p (zidan putra rahman)
 - 👀 I’m interested in web development and game development

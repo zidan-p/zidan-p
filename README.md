@@ -1,10 +1,12 @@
 
 <h1> Hello, Zidan here 👋 </h1>
 <h4> Welcome to my github profile</h4> 
-<img width="100%" src="https://github.com/zidan-p/zidan-p/blob/main/asset/future.gif" />
+<img width="100%" src="https://github.com/zidan-p/zidan-p/blob/main/asset/falcon.gif" />
 
 
-![test](https://komarev.com/ghpvc/?username=zidan-p&color=yellowgreen)
+![views count](https://komarev.com/ghpvc/?username=zidan-p&color=yellowgreen)
+
+`oh my warriors whither would you flee? behind you is the sea, before you is the enemy`
 
 This is where I store various kinds of projects, whether it's from school, my internship or my free time projects.
 - 👋 Hi, I’m @zidan-p (zidan putra rahman)
@@ -19,6 +21,7 @@ This is where I store various kinds of projects, whether it's from school, my in
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat&logo=Typescrip)
 ![Laravel](https://img.shields.io/badge/-laravel-red?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/-php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node-339933?style=flat&logo=Node.js&logoColor=ffffff)
